@@ -3,8 +3,9 @@
 # 24 -> 4  16  4
 # 60 -> 10  40  10
 
-a = int(input("Введите число:"))
-k = int((a/3)*2)
-p = int((k/2)/2)
-s = int(p)
-print(p, k, s)
+# a = int(input("Введите число:"))
+# k = int((a/3)*2)
+# p = int((k/2)/2)
+# s = int(p)
+# print(p, k, s)
+
